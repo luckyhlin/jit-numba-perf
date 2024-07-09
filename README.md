@@ -4,4 +4,6 @@ Performance comparison for vector addition using
 * numba @cuda.jit
 * vanilla c++ (with pointer and vector)
 * cuda
-* cuda with ptx generated from llvm IR
+* cuda with ptx generated from LLVM IR
+
+![Performance Comparison](figure.png)
